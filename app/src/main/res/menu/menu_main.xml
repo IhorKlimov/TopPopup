@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.myhexaville.topdemo.MainActivity">
+    <item
+        android:id="@+id/action_filter"
+        android:icon="@drawable/filter"
+        app:showAsAction="ifRoom"
+        android:title="Filter" />
+</menu>
